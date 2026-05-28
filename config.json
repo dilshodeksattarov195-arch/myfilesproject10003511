@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdync",
+        "uuid": 25384530,
+        "checksum": "q01k4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
